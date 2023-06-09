@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command DWGManager</Text>
+    <Description>Some description for DWGManager</Description>
+    <Assembly>DWGManager.dll</Assembly>
+    <FullClassName>DWGManager.Command</FullClassName>
+    <ClientId>7b8a6ba1-4ae4-49ab-ba99-618d17ed4e1b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application DWGManager</Name>
+    <Assembly>DWGManager.dll</Assembly>
+    <FullClassName>DWGManager.App</FullClassName>
+    <ClientId>83c02f9c-1880-454a-b075-70d287d49be2</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\DWGManager\DWGManager\bin\Debug\4BIM.DWG.dll
+C:\Users\user\source\repos\DWGManager\DWGManager\bin\Debug\4BIM.DWG.pdb
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\DWGManager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\DWGManager.AppSettings.App0.resources
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\DWGManager.AppSettings.AppStore.resources
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\DWGManager.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\DWGManager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\DWGManager.csproj.CopyComplete
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\4BIM.DWG.dll
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\4BIM.DWG.pdb
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\MainForm.g.cs
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\4BIM.DWG_MarkupCompile.cache
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\4BIM.DWG_MarkupCompile.lref
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\MainForm.baml
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\4BIM.DWG.g.resources
+C:\Users\user\source\repos\DWGManager\DWGManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
